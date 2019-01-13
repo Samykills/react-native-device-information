@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/809bf4a02fb6dcd291a381408731865f/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a767bf328e05dfbb5c3170b104d45312/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/809bf4a02fb6dcd291a381408731865f/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a767bf328e05dfbb5c3170b104d45312/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a767bf328e05dfbb5c3170b104d45312/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a767bf328e05dfbb5c3170b104d45312/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/809bf4a02fb6dcd291a381408731865f/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a767bf328e05dfbb5c3170b104d45312/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a767bf328e05dfbb5c3170b104d45312/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a767bf328e05dfbb5c3170b104d45312/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/809bf4a02fb6dcd291a381408731865f/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/809bf4a02fb6dcd291a381408731865f/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/809bf4a02fb6dcd291a381408731865f/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a767bf328e05dfbb5c3170b104d45312/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a767bf328e05dfbb5c3170b104d45312/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a767bf328e05dfbb5c3170b104d45312/res/anim/abc_slide_out_top.xml"
+    }
+]

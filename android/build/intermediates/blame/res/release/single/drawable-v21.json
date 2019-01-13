@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a767bf328e05dfbb5c3170b104d45312/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a767bf328e05dfbb5c3170b104d45312/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "react-native-device-information",
+  "version": "1.0.0",
+  "description": "Device info for RN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "basic-components",
+    "react-natve-device-information"
+  ],
+  "author": {
+    "name": "Ullas Gupta",
+    "email": "ullas.gupta91@gmail.com"
+  },
+  "main": "deviceinformation.js",
+  "license": "private license",
+  "deprecated": false,
+  "dependencies": {
+  }
+}

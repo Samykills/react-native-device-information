@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w480dp-v13/values-w480dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a767bf328e05dfbb5c3170b104d45312/res/values-w480dp/values-w480dp.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "282,572",
+                        "endColumns": "61,71",
+                        "endOffsets": "339,639"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,117",
+                        "endColumns": "61,71",
+                        "endOffsets": "112,184"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/res/merged/release/values-w480dp-v13/values-w480dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a767bf328e05dfbb5c3170b104d45312/res/values-w480dp/values-w480dp.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "282,572",
+                        "endColumns": "61,71",
+                        "endOffsets": "339,639"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,117",
+                        "endColumns": "61,71",
+                        "endOffsets": "112,184"
+                    }
+                }
+            ]
+        }
+    ]
+}

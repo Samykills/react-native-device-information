@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/src/main/shaders"/></dataSet><dataSet config="release"><source path="/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/src/release/shaders"/></dataSet></merger>

@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/res/merged/release/values-w360dp-v13/values-w360dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a767bf328e05dfbb5c3170b104d45312/res/values-w360dp/values-w360dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "283",
+                        "endColumns": "54",
+                        "endOffsets": "333"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ullas/Desktop/ullasGupta/bitbucket_container/basic-container/node_modules/react-native-device-information/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/ullas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a767bf328e05dfbb5c3170b104d45312/res/values-w360dp/values-w360dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "283",
+                        "endColumns": "54",
+                        "endOffsets": "333"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}
